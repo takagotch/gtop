@@ -11,5 +11,6 @@ gtop
 LANG=en_US.utf8 TERM=xterm-256color gtop
 ```
 
-```
+```js
+module.exports = require('./lib/gtop');
 ```
